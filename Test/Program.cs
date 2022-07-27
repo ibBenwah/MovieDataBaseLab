@@ -1,0 +1,11 @@
+﻿Movie movieTwo = new Movie("Spider-Man", "Jon Watts", "Action") { };
+Movie movieThree = new Movie("Forrest Gump", "Robert Zemeckis", "Drama") { };
+Movie movieFour = new Movie("Dune", "Denis Villeneuve", "Scifi") { };
+Movie movieFive = new Movie("Jaws", "Steven Spielberg", "Action") { };
+Movie movieSix = new Movie("The Godfather", "Francis Ford Coppola", "Drama") { };
+Movie movieSeven = new Movie("UP", "Peter Docter", "Animated") { };
+Movie movieEight = new Movie("Toy Story", "John Lasseter", "Animated") { };
+Movie movieNine = new Movie("Interstellar", "Christopher Nolan", "Scifi") { };
+Movie movieTen = new Movie("House of Gucci", "RidleyScott", "Drama") { };
+Movie movieEleven = new Movie("The Incrediables", "Brad Bird", "Animated") { };
+Movie movieTwelve = new Movie("INception", "Christopher Nolan", "Scifi") { };
